@@ -62,7 +62,7 @@ const config: MenuEntry[] = [
   {
     label: 'Blog',
     icon: 'MediumIcon',
-    href: 'https://PixiuSwap.medium.com',
+    href: 'https://pixiuswaptoken.medium.com',
     external: true,
   },
   {
