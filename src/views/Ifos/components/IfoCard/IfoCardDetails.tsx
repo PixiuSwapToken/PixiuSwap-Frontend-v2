@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import BigNumber from 'bignumber.js'
-import { Text, LinkExternal, Link } from '@blzd-dev/uikit'
+import { Text, LinkExternal, Link } from '@pixiuswapp/uikit-2'
 import useI18n from 'hooks/useI18n'
 
 export interface IfoCardDetailsProps {

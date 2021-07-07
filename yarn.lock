@@ -1212,9 +1212,10 @@
     "@web3-react/walletlink-connector" "^6.1.1"
     jsbi "^3.1.1"
 
-"@blzd-dev/uikit@pixiuswap/pixiu-uikit-v2":
-  version "0.13.24"
-  resolved "https://codeload.github.com/pixiuswap/pixiu-uikit-v2/tar.gz/97407c213378e1c4fe88c4f5a683d4148817fd49"
+"@pixiuswapp/uikit-2@^0.13.26":
+  version "0.13.26"
+  resolved "https://registry.yarnpkg.com/@pixiuswapp/uikit-2/-/uikit-2-0.13.26.tgz#d3f553c84deb4b332a6815a5487e44644bcbfb82"
+  integrity sha512-tIN1hmRBLLk7mhXrne9Oydf5JBkn9dc5jl+wBrH4ncVSWlR29H64k5aTWDRSK/A6S9Ux4yDfSX/a8HbX7g4V8A==
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"

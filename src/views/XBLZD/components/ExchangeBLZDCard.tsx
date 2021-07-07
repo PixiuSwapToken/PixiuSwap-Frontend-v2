@@ -1,6 +1,6 @@
 import React, { useState, useCallback } from 'react'
 import styled from 'styled-components'
-import { Heading, Card, CardBody, Button } from '@blzd-dev/uikit'
+import { Heading, Card, CardBody, Button } from '@pixiuswapp/uikit-2'
 import { useWallet } from '@binance-chain/bsc-use-wallet'
 import UnlockButton from 'components/UnlockButton'
 import { useXBlzdApprove } from 'hooks/useApprove'

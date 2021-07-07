@@ -1,7 +1,7 @@
 import React from 'react'
 // import styled from 'styled-components'
 import BigNumber from 'bignumber.js'
-import { Button, Flex, Heading, useModal } from '@blzd-dev/uikit'
+import { Button, Flex, Heading, useModal } from '@pixiuswapp/uikit-2'
 // import useI18n from 'hooks/useI18n'
 // import useStake from 'hooks/useStake'
 import useUnstake from 'hooks/useUnstake'

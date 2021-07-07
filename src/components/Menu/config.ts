@@ -1,4 +1,4 @@
-import { MenuEntry } from '@blzd-dev/uikit'
+import { MenuEntry } from '@pixiuswapp/uikit-2'
 
 const config: MenuEntry[] = [
   {
@@ -27,21 +27,21 @@ const config: MenuEntry[] = [
       },
     ],
   },
-  {
-    label: 'Farms',
-    icon: 'FarmIcon',
-    href: '/farms',
-  },
-  {
-    label: 'Caves',
-    icon: 'CaveIcon',
-    href: '/caves',
-  },
-  {
-    label: 'Blizzard',
-    icon: 'PoolIcon',
-    href: '/pools',
-  },
+  // {
+    // label: 'Farms',
+    // icon: 'FarmIcon',
+    // href: '/farms',
+  // },
+  // {
+    // label: 'Caves',
+    // icon: 'CaveIcon',
+    // href: '/caves',
+  // },
+  // {
+    // label: 'Blizzard',
+    // icon: 'PoolIcon',
+    // href: '/pools',
+  // },
   {
     label: 'Info',
     icon: 'InfoIcon',

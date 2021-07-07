@@ -1,7 +1,7 @@
 import BigNumber from 'bignumber.js'
 import styled from 'styled-components'
 import React, { useMemo, useState } from 'react'
-import { Button, Modal } from '@blzd-dev/uikit'
+import { Button, Modal } from '@pixiuswapp/uikit-2'
 import ModalActions from 'components/ModalActions'
 import Balance from 'components/Balance'
 import useI18n from 'hooks/useI18n'

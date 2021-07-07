@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import styled from 'styled-components'
 import { useWallet } from '@binance-chain/bsc-use-wallet'
-import { Button, Modal, Text } from '@blzd-dev/uikit'
+import { Button, Modal, Text } from '@pixiuswapp/uikit-2'
 import { getBalanceNumber } from 'utils/formatBalance'
 import { RABBIT_MINTING_FARM_ADDRESS } from 'config/constants/nfts'
 import { getCakeAddress } from 'utils/addressHelpers'

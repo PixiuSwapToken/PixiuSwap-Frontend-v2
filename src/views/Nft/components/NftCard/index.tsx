@@ -11,7 +11,7 @@ import {
   Text,
   CardFooter,
   useModal,
-} from '@blzd-dev/uikit'
+} from '@pixiuswapp/uikit-2'
 import useI18n from 'hooks/useI18n'
 import { Nft } from 'config/constants/types'
 import InfoRow from '../InfoRow'

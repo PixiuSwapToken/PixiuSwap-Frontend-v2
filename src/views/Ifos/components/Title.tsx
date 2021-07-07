@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Heading } from '@blzd-dev/uikit'
+import { Heading } from '@pixiuswapp/uikit-2'
 
 const Title = styled(Heading).attrs({ size: 'lg' })`
   color: ${({ theme }) => theme.colors.secondary};

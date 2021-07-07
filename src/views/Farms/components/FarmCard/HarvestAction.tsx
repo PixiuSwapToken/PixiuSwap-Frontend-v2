@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import BigNumber from 'bignumber.js'
-import { Button, Flex, Heading } from '@blzd-dev/uikit'
+import { Button, Flex, Heading } from '@pixiuswapp/uikit-2'
 import useI18n from 'hooks/useI18n'
 import { useHarvest } from 'hooks/useHarvest'
 import { getBalanceNumber } from 'utils/formatBalance'

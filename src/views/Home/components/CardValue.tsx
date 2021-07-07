@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react'
 import { useCountUp } from 'react-countup'
-import { Text } from '@blzd-dev/uikit'
+import { Text } from '@pixiuswapp/uikit-2'
 
 interface CardValueProps {
   value: number

@@ -1,7 +1,7 @@
 import BigNumber from 'bignumber.js'
 import React, { useCallback, useState } from 'react'
 import styled from 'styled-components'
-import { Button, IconButton, useModal, AddIcon, Image } from '@blzd-dev/uikit'
+import { Button, IconButton, useModal, AddIcon, Image } from '@pixiuswapp/uikit-2'
 import { useWallet } from '@binance-chain/bsc-use-wallet'
 import UnlockButton from 'components/UnlockButton'
 import Label from 'components/Label'

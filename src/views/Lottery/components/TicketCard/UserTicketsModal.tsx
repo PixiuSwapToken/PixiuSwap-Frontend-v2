@@ -1,5 +1,5 @@
 import React, { useCallback } from 'react'
-import { Button, Modal } from '@blzd-dev/uikit'
+import { Button, Modal } from '@pixiuswapp/uikit-2'
 import styled from 'styled-components'
 import { useWinningNumbers } from 'hooks/useTickets'
 import useI18n from 'hooks/useI18n'

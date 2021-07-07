@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Text, Heading, BaseLayout, Button, LinkExternal, Flex, Image } from '@blzd-dev/uikit'
+import { Text, Heading, BaseLayout, Button, LinkExternal, Flex, Image } from '@pixiuswapp/uikit-2'
 import { ifosConfig } from 'config/constants'
 import useI18n from 'hooks/useI18n'
 import IfoCard from './components/IfoCard'

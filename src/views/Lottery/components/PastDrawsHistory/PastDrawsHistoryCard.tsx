@@ -1,5 +1,5 @@
 import React from 'react'
-import { Heading, Card, CardBody } from '@blzd-dev/uikit'
+import { Heading, Card, CardBody } from '@pixiuswapp/uikit-2'
 import useI18n from 'hooks/useI18n'
 import HistoryChart from './HistoryChart'
 import Legend from './Legend'

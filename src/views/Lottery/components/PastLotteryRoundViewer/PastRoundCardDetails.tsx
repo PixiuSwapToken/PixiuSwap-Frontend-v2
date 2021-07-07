@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Heading, CardBody, CardFooter, LogoRoundIcon, TicketRound } from '@blzd-dev/uikit'
+import { Heading, CardBody, CardFooter, LogoRoundIcon, TicketRound } from '@pixiuswapp/uikit-2'
 import useI18n from 'hooks/useI18n'
 import { DataResponse } from 'utils/getLotteryRoundData'
 import LotteryCardHeading from '../LotteryCardHeading'

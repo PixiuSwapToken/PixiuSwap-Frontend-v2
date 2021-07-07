@@ -1,6 +1,6 @@
 import { createGlobalStyle } from 'styled-components'
 // eslint-disable-next-line import/no-unresolved
-import { PancakeTheme } from '@blzd-dev/uikit'
+import { PancakeTheme } from '@pixiuswapp/uikit-2'
 
 declare module 'styled-components' {
   /* eslint-disable @typescript-eslint/no-empty-interface */

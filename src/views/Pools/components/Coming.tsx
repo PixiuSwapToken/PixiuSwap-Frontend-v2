@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Image, Button } from '@blzd-dev/uikit'
+import { Image, Button } from '@pixiuswapp/uikit-2'
 import { CommunityTag } from 'components/Tags'
 import useI18n from 'hooks/useI18n'
 import Card from './Card'

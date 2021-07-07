@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card, CardBody, Heading } from '@blzd-dev/uikit'
+import { Card, CardBody, Heading } from '@pixiuswapp/uikit-2'
 // import BigNumber from 'bignumber.js/bignumber'
 import styled from 'styled-components'
 import { Timeline } from 'react-twitter-widgets'
